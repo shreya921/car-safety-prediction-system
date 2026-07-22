@@ -101,7 +101,8 @@ developer_info = """
 **Created by:** shreya
 
 * **LinkedIn:** [Connect with me](www.linkedin.com/in/shreya-goel-6b5a902bb)
-* **Department:** [Btech Cse]
+* **Department:** B.Tech CSE
+
 
 ---
 ### 🛠️ Tools & Technologies Used
